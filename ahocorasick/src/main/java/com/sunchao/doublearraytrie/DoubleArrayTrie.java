@@ -35,7 +35,7 @@ public class DoubleArrayTrie {
 		int depth;
 		int left;
 		int right;
-	};
+	}
 
 	private int check[];
 	private int base[];
